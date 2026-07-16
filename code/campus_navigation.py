@@ -3,8 +3,8 @@
  Nile University Campus Navigation System
  Course  : Discrete Mathematics — Spring 2026
  Project : Graph Representation + BFS Traversal
- Members : Yousef Nasser Abozaid  (241002067)
-           Mostafa Yousif         (241001668)
+ Members : Yousef Nasser Abozaid
+           Mostafa Yousif
 ============================================================
 
 This program models the Nile University campus as a graph.

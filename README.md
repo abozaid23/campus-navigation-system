@@ -38,7 +38,7 @@ GraphRepresentation_Presentation.pptx   Slides
 
 ## Authors
 
-- Yousef Nasser Abozaid — 241002067
-- Mostafa Yousif — 241001668
+- Yousef Nasser Abozaid
+- Mostafa Yousif
 
 *Nile University — Discrete Mathematics, Spring 2026*

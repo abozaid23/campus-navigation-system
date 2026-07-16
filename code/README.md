@@ -60,8 +60,8 @@ Engineering Building ── Computer Lab
 | 8 | Exit |
 
 ## Members
-- Yousef Nasser Abozaid — 241002067
-- Mostafa Yousif — 241001668
+- Yousef Nasser Abozaid
+- Mostafa Yousif
 
 ## Course
 Discrete Mathematics — Spring 2026 | Nile University
