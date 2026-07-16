@@ -1,0 +1,13 @@
+# Redundant archives (source is extracted under code/)
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
